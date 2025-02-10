@@ -237,7 +237,7 @@ How is this same process described in Moroni 10:3-5?
 
 - [Faith and Science: Symbiotic Pathways to Truth](https://speeches.byu.edu/talks/jamie-jensen/faith-science-symbiotic-pathways-truth/)
 
-## Exercise 9
+## Exercise 8
 
 1. Finish downloading code and materials from RStudio on Posit Cloud and Canvas and organizing your course folder.
 2. Install the {tidyverse} and {tidymodels} packages locally.
