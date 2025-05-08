@@ -1,0 +1,21 @@
+---
+title: "Exercise 9"
+author: "Marc Dotson"
+format: docx
+---
+
+1. Finish downloading code and materials from RStudio on Posit Cloud and Canvas and organizing your course folder.
+2. Install the {tidyverse} and {tidymodels} packages locally.
+3. Read the case and write how you might meet the expectations (no more than one page) in Quarto. Render as a Word document and submit on Canvas.
+
+**Five points total:**
+
+- **Four points for writing about meeting case expectations.**
+- **One point for submitting a rendered Word document.**
+
+## Meeting Expectations
+
+To model how promotions and promotional spending are driving sales for various trade areas, sub-categories, and brands we'll first need to identify what combination of those variables we need to filter observations by so we can run a series of models. By running overall and specific models we can target recommendations to each subset of the data and contrast with the effects of promotions across the category.
+
+In terms of the variables we might include, we'll need to get a data dictionary to understand what all of the constructed variables represent, but the outcome is likely `Sales` or `Base_Sales` for each model. Furthermore, we'll have to determine which of the promotional variables and other variables related to sales should be included.
+
